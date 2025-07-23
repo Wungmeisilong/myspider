@@ -1,4 +1,4 @@
-# Path: doc\README.md
+# Path
 
 ## scrapy 入门
 
